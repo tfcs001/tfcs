@@ -7,7 +7,12 @@
 ### (3) 点击文件管理，可进入文件管理界面(支持移动端)
 #### (3.1)支持基本文件夹操作（非根目录）：重命名、删除、上传文件夹、下载文件夹
 #### (3.2)支持基本文件操作： 重命名、删除、上传文件、下载文件、打开播放文件
+#### linux文件管理
 ![filemanagement](https://user-images.githubusercontent.com/80773693/123268390-90d5a880-d530-11eb-9666-c39eb9deb73e.png)
+#### window文件管理
+![windows-filemanagement](https://user-images.githubusercontent.com/80773693/123269818-ececfc80-d531-11eb-8ed9-f1aeb1273b16.png)
+#### mobile文件管理
+![mobile-filemanagement](https://user-images.githubusercontent.com/80773693/123270354-6e448f00-d532-11eb-9099-63d7317c7787.png)
 ### (4) 支持公网映射访问 
 #### (4.1)服务端配置-比如再阿里云上启动该服务（一般情况下，同一系统服务端和客户端两选一）
 ![server](https://user-images.githubusercontent.com/80773693/123268442-9af7a700-d530-11eb-885d-b845dee1ab90.png)
