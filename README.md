@@ -24,9 +24,8 @@
 ![map](https://user-images.githubusercontent.com/80773693/123268563-ba8ecf80-d530-11eb-9843-089587951d20.png)
 #### 点击增加，输入名称（唯一），外部端口，内部端口，内部ip 后 点击更新，如果状态显示connect success, 表示映射成功
 #### (4.4)使用服务端ip+外部端口，就可以访问内网内部ip+内部端口的内网服务器
-
-
 ### （5）支持增加普通用户, 限制普通用户的目录访问权限，linux和windows均支持
 ![user_folder](https://user-images.githubusercontent.com/80773693/123268651-d1352680-d530-11eb-9569-d3ff631e5c51.png)
-
+### （6）支持Webdav功能，可通过管理员或普通用户登陆访问（默认端口号是8900）
+![webdav](https://user-images.githubusercontent.com/80773693/128180651-162e381a-739f-4695-9989-f18206978f09.png)
 
